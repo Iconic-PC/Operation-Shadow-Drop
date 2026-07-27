@@ -1,7 +1,7 @@
 # Table of contents
 
 * [📄 Cover Page](README.md)
-* [📄 Overview & Executive Summary](<README (1).md>)
+* [📄 Overview & Executive Summary](readme.md)
 * [📄 Investigation Objectives](investigation-objectives.md)
 * [📁 Evidence & Methodology](evidence-and-methodology/README.md)
   * [Tools Used](evidence-and-methodology/tools-used.md)
