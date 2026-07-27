@@ -9,7 +9,7 @@
   * [Investigation Process](evidence-and-methodology/investigation-process.md)
 * [📁 Investigation Findings](investigation-findings/README.md)
   * [Finding 1 - Attack Origin](investigation-findings/finding-1-attack-origin.md)
-  * [Finding 2 – Attacker User-Agent](investigation-findings/copy-of-finding-1-attack-origin.md)
+  * [Finding 2 – Attacker User-Agent](investigation-findings/finding-2-attacker-user-agent.md)
   * [Finding 3 - Malicious Web Shell](investigation-findings/finding-3-malicious-web-shell.md)
   * [Finding 4 - Upload Directory](investigation-findings/finding-4-upload-directory.md)
   * [Finding 5 - Outbound Communication Port](investigation-findings/finding-5-outbound-communication-port.md)
