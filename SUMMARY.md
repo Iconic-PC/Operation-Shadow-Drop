@@ -1,7 +1,7 @@
 # Table of contents
 
 * [📄 Cover Page](README.md)
-* [📄 Overview & Executive Summary](readme.md)
+* [📄 Overview & Executive Summary](overview-and-executive-summary.md)
 * [📄 Investigation Objectives](investigation-objectives.md)
 * [📁 Evidence & Methodology](evidence-and-methodology/README.md)
   * [Tools Used](evidence-and-methodology/tools-used.md)
@@ -9,7 +9,7 @@
   * [Investigation Process](evidence-and-methodology/investigation-process.md)
 * [📁 Investigation Findings](investigation-findings/README.md)
   * [Finding 1 - Attack Origin](investigation-findings/finding-1-attack-origin.md)
-  * [Copy of Finding 1 - Attack Origin](investigation-findings/copy-of-finding-1-attack-origin.md)
+  * [Finding 2 – Attacker User-Agent](investigation-findings/copy-of-finding-1-attack-origin.md)
   * [Finding 3 - Malicious Web Shell](investigation-findings/finding-3-malicious-web-shell.md)
   * [Finding 4 - Upload Directory](investigation-findings/finding-4-upload-directory.md)
   * [Finding 5 - Outbound Communication Port](investigation-findings/finding-5-outbound-communication-port.md)
