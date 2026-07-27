@@ -1,48 +1,52 @@
-# 📄 Cover Page
+# Operation Shadow Drop
 
-### INTERNATIONAL CYBERSECURITY
+## SOC Incident Investigation Report
 
-### &
+A network security investigation documenting the analysis of a simulated cyber incident involving unauthorized activity against a web application environment.
 
-### DIGITAL FORENSICS ACADEMY
+This project was completed as part of the **INT401: Network Security Operations** course under the **Ethical Hacking and Digital Forensics Internship** program.
 
-***
+---
 
-### **COURSE CODE**
+## Investigation Overview
 
-#### INT401
+Operation Shadow Drop focuses on the investigation and analysis of suspicious network activity through packet capture examination and digital evidence analysis.
 
-***
+The investigation covers attacker activity identification, traffic analysis, evidence collection, attack reconstruction, impact assessment, and recommendations to improve organizational security posture.
 
-### **COURSE TITLE**
+---
 
-#### NETWORK SECURITY OPERATIONS
+## Investigation Objectives
 
-#### SOC INCIDENT SIMULATION REPORT - OPERATION SHADOW DROP
+The primary objectives of this investigation are to:
 
-***
+- Analyze captured network traffic to identify malicious activity.
+- Determine the attacker's techniques and behavior.
+- Identify indicators of compromise (IOCs).
+- Reconstruct the attack timeline.
+- Assess the impact on affected systems and data.
+- Provide security recommendations to prevent similar incidents.
 
-### Prepared By
+---
 
-#### **Student Name:** Ndukwe Goodluck Obinna
+## Report Information
 
-#### **Student ID:** 2025/INT/12147
+**Course Code:** INT401  
+**Course Title:** Network Security Operations  
+**Program:** Ethical Hacking and Digital Forensics Internship  
 
-***
+**Prepared By:** Ndukwe Goodluck Obinna  
+**Student ID:** 2025/INT/12147  
 
-#### **Course Name:** Ethical Hacking and Digital Forensics Internship
+**Instructor:** ICDFA Instructor  
 
-***
+**Submission Date:** August 1, 2026  
 
-### Instructor Information
+---
 
-#### **Instructor Name:** ICDFA Instructor
+## Documentation
 
-***
+The complete investigation report, including methodology, findings, evidence analysis, attack timeline, and recommendations, is available on GitBook:
 
-### Submission Information
-
-#### **Date of Submission:** August 1,2026
-
-***
-
+**GitBook Documentation:**  
+[Insert GitBook Link]
