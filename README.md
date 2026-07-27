@@ -49,4 +49,4 @@ The primary objectives of this investigation are to:
 The complete investigation report, including methodology, findings, evidence analysis, attack timeline, and recommendations, is available on GitBook:
 
 **GitBook Documentation:**  
-[Insert GitBook Link]
+https://obinna.gitbook.io/cybersecurity-portfolio/operation-shadow-drop
