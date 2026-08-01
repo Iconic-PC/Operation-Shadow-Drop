@@ -1,4 +1,4 @@
-# MITRE ATT\&CK Mapping
+# MITRE ATT&CK Mapping
 
 ### Overview
 
